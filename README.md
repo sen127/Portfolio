@@ -1,1 +1,3 @@
 # Portfolio
+This is a basic portfolio file created using HTML/CSS/BootStrap/JavaScript/Jquery.
+Some of the pages are still unfinished....
